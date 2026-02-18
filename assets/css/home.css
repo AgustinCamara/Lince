@@ -4,7 +4,7 @@
 
 .coleccion {
     padding: 35px 10%;
-    padding-bottom: 50px;
+    padding-bottom: 250px;
 }
 
 .coleccion h2 {
@@ -42,6 +42,11 @@
         height: auto;
     }
 
+    .coleccion {
+        padding: 20px 5%;
+        padding-bottom: 50px;
+    }
+    
     .coleccion h2 {
         font-size: 32px;
     }
@@ -54,3 +59,4 @@
         font-size: 20px;
     }
 }
+
