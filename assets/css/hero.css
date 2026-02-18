@@ -1,6 +1,5 @@
 #hero {
     position: relative;
-    height: 100vh;
     overflow: hidden;
 }
 
@@ -40,5 +39,14 @@
     background: rgba(255,255,255,0.35);
     backdrop-filter: blur(2px);
     padding: 30px 50px;
-    border-radius: 15px;
+}
+
+.logo-container img {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    #hero {
+        height: 50vh;
+    }
 }
