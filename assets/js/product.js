@@ -5,19 +5,19 @@
 const productos = [
     {
         id: 1,
-        nombre: "Top Deportivo Negro",
+        nombre: "Conjunto Deportivo Negro",
         precio: 899,
         imagen: "../assets/images/products/black_top.jpeg"
     },
     {
         id: 2,
-        nombre: "Top Deportivo Gris",
+        nombre: "Conjunto Deportivo Gris",
         precio: 899,
         imagen: "../assets/images/products/grey_top.jpeg"
     },
     {
         id: 3,
-        nombre: "Top Deportivo Rosado",
+        nombre: "Conjunto Deportivo Rosado",
         precio: 899,
         imagen: "../assets/images/products/pink_top.jpeg"
     }
@@ -121,3 +121,4 @@ function init() {
 }
 
 document.addEventListener("DOMContentLoaded", init);
+
