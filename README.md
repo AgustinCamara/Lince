@@ -81,9 +81,6 @@ Lince/
 
 ---
 
-## Autor
+## 📄 Licencia
 
-Desarrollado por **Agus** — 2026
-
-
-
+MIT © AgustinCamara
