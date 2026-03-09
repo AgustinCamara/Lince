@@ -62,15 +62,3 @@ Lince/
 │           └── pink_top.jpeg
 └── README.md
 ```
-
----
-
-## Cómo ejecutar
-
-1. Cloná el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/lince.git
-   ```
-2. Abrí `index.html` en tu navegador, o usá una extensión como **Live Server** en VS Code.
-
-> No requiere instalación de dependencias ni build tools. Es un proyecto 100% estático.
