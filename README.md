@@ -2,10 +2,6 @@
 
 Landing page de e-commerce para **Lince**, una marca de indumentaria deportiva femenina. El sitio presenta la nueva colección de tops deportivos con un diseño elegante, minimalista y completamente responsive.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ---
 
 ## Vista previa
@@ -78,9 +74,3 @@ Lince/
 2. Abrí `index.html` en tu navegador, o usá una extensión como **Live Server** en VS Code.
 
 > No requiere instalación de dependencias ni build tools. Es un proyecto 100% estático.
-
----
-
-## 📄 Licencia
-
-MIT © AgustinCamara
